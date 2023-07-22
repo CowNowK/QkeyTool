@@ -1,11 +1,11 @@
 邮箱快速登陆 https://ssl.ptlogin2.qq.com/qqmail
-提交数据  Fun=clientread ADUIN=[QQ号] ADSESSION=iii ADTAG=jjj clientuin=[QQ号] clientkey=[ClientKey值] ptlang=2052 httptype=0 ADUIN=[QQ号] ADSESSION=1656488997 ADTAG=CLIENT.QQ.5899_Mysrv.0 ADPUBNO=27223
+提交数据  Fun=clientread ADUIN=[Uin] ADSESSION=iii ADTAG=jjj clientuin=[Uin] clientkey=[ClientKey值] ptlang=2052 httptype=0 ADUIN=[Uin] ADSESSION=1656488997 ADTAG=CLIENT.QQ.5899_Mysrv.0 ADPUBNO=27223
 
 QQ空间快速登录 https://ssl.ptlogin2.qq.com/jump
-提交数据 ptlang=2052 clientuin=[QQ号] clientkey=[ClientKey值] u1=https:%2F%2Fuser.qzone.qq.com%2F[QQ号] source=panelstar
+提交数据 ptlang=2052 clientuin=[Uin] clientkey=[ClientKey值] u1=https:%2F%2Fuser.qzone.qq.com%2F[Uin] source=panelstar
 
 群管理快速登陆 https://ssl.ptlogin2.qq.com/jump
-提交数据 Fun=clientread&ADUIN=[QQ号] ADSESSION=iii ADTAG=jjj clientuin=[QQ号] clientkey=[ClientKey值] u1=http%3A%2F%2Fqun.qq.com%2Fmember.html
+提交数据 Fun=clientread&ADUIN=[Uin] ADSESSION=iii ADTAG=jjj clientuin=[Uin] clientkey=[ClientKey值] u1=http%3A%2F%2Fqun.qq.com%2Fmember.html
 
 QQ头像 https://q.qlogo.cn/g
 提交数据 b=qq nk=[QQ号] s=100
