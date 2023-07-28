@@ -1,1 +1,2 @@
 *.e linguist-language=EPL
+*.cpp linguist-language=C++
