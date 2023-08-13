@@ -15,3 +15,6 @@ QQ头像 https://q.qlogo.cn/g
 
 发送群公告 https://web.qun.qq.com/cgi-bin/announce/add_qun_notice?plg_auth=1
 提交数据 bkn=[G_tk bkn计算] &qid=[群号码] title=[标题] text=[内容]
+
+加好友 tencent://AddContact/?
+提交数据 fromId=30 fromSubId=1 subcmd=all uin=[Uin]
