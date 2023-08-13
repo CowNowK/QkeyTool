@@ -15,7 +15,7 @@
 	* <a href="#bk">被控</a>
 	* <a href="#zd">终端</a>
 	* <a href="#api">API</a>
-3. <a href="#qt">其他说明</a>
+3. <a href="#qt">常见问答</a>
 4. <a href="#img">截图</a>
 5. <a href="#update">更新记录</a>
 ***
@@ -53,12 +53,41 @@
 
 ***
 
-## <a name="qt">🍀 其他说明</a>
+## <a name="qt">🍀 其他说明 & 常见问答</a>
+
+<details>
+<summary>源码信息</summary>
+
+### 源码信息
 - 易语言版本：5.8
 - 使用模块：
 	- 精易模块[v10.4.5]
 	- 乐易模块[v6.6]
 - 作者：CowNow
+
+ </details>
+
+<details>
+<summary>如何部署发信邮箱</summary>
+
+### 这里以网易邮箱为例
+1. 首先，注册一个你准备用来发信的邮箱
+2. 点击邮箱设置，点击`POP3/SMTP/IMAP`，如图
+![](/img/Tutorial_mail1.png)
+3. 开启`IMAP/SMTP服务`，然后你会得到一个授权密码
+4. 邮箱成功部署，你只需要将邮箱账号和授权密码填写到源码中即可使用你自己的邮箱进行发信
+</details>
+
+<details>
+<summary>如何部署api接口</summary>
+
+### 接口部署
+1. 首先，你需要有一个云服务器，如果有条件的，也可以家里云
+2. 就像搭建网站一样把Api接口的文件传上去
+3. 记得自行编写一份`package.json`，不然接口会无法正常调用
+4. 访问api地址，提交数据为 skey=`Skey值`，如果成功返回json格式的Bkn文本，那么就说明部署成功了
+
+</details>
 
 ***
 
