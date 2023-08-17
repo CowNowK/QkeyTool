@@ -1,6 +1,6 @@
 # 🗝QkeyTool
-[![License](https://img.shields.io/github/license/danielkrupinski/Osiris.svg?style=plastic)](LICENSE)
-<br>![Windows](https://github.com/danielkrupinski/Osiris/workflows/Windows/badge.svg?branch=master&event=push)
+[![Language](https://img.shields.io/badge/build-%E6%98%93%E8%AF%AD%E8%A8%80-blue?style=flat&label=Language)](https://zh.wikipedia.org/wiki/%E6%98%93%E8%AF%AD%E8%A8%80)
+[![License](https://img.shields.io/github/license/danielkrupinski/Osiris.svg?style=flat)](LICENSE)
 
 
 > ✨ 这是由易语言编写的QQskey工具，包含主控端，被控端和终端源码。
