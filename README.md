@@ -98,7 +98,8 @@
 ## <a name="img">📸 截图</a>
 - 主控界面
 
-![](/img/QkeyTool2.png)
+![](/img/QkeyTool1.png)
+![](/img/QkeyTool3.png)
 
 - 被控触发
 
